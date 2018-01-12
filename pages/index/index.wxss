@@ -1,0 +1,34 @@
+.header {
+  background: #60ada7;
+  color: #fff;
+  text-align: center;
+  padding: 20rpx;
+}
+
+.keyword-input {
+  margin: 20rpx 40rpx;
+  padding: 10rpx;
+  background-color: #fff;
+  color: #666;
+  border-radius: 10rpx;
+}
+
+.tab-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  color: #fff;
+  height: 100rpx;
+  border-bottom: 1px solid #eee;
+}
+
+.tab-item {
+  width:100rpx;
+  text-align: center;
+  padding: 30rpx 20rpx;
+  background: #951;
+}
+
+.item-list {
+  margin: 50rpx;
+}

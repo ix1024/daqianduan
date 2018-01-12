@@ -1,0 +1,19 @@
+<view class='container'>
+  <view class="header">
+    <image class='my-image' mode='widthFix' src='{{userInfo.avatarUrl}}'></image>
+    <view>{{userInfo.nickName}}</view>
+  </view>
+  <view class='section'>
+    <view class='section-item'>您的手机信息：{{systemInfo.system}}</view>
+    <view class='section-item'>您的手机信息：{{systemInfo.system}}</view>
+    <view class='section-item'>您的手机信息：{{systemInfo.system}}</view>
+  </view>
+
+  
+  <view class='section'>
+    <view class='section-item'>您的手机信息：{{systemInfo.system}}</view>
+    <view class='section-item'>您的手机信息：{{systemInfo.system}}</view>
+    <view class='section-item'>关于掌上大前端</view>
+  </view>
+
+</view>

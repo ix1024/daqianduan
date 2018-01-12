@@ -1,0 +1,30 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='header'>
+    <input class='keyword-input' value='' placeholder='请输入关键字'></input>
+  </view>
+  <scroll-view scroll-x class='tab-header'>
+    <view class='tab-item'>全部</view>
+    <view class='tab-item'>HTML</view>
+    <view class='tab-item'>CSS</view>
+    <view class='tab-item'>JS</view>
+    <view class='tab-item'>Nodejs</view>
+    <view class='tab-item'>全部</view>
+    <view class='tab-item'>HTML</view>
+    <view class='tab-item'>CSS</view>
+    <view class='tab-item'>JS</view>
+    <view class='tab-item'>Nodejs</view>
+    <view class='tab-item'>全部</view>
+    <view class='tab-item'>HTML</view>
+    <view class='tab-item'>CSS</view>
+    <view class='tab-item'>JS</view>
+    <view class='tab-item'>Nodejs</view>
+    <view class='tab-item'>全部</view>
+    <view class='tab-item'>HTML</view>
+    <view class='tab-item'>CSS</view>
+    <view class='tab-item'>JS</view>
+    <view class='tab-item'>Nodejs</view>
+  </scroll-view>
+
+</view>
+

@@ -1,0 +1,18 @@
+/**app.wxss**/
+
+.container {
+  height: 100%;
+  color: #666;
+  box-sizing: border-box;
+}
+
+.clearfix {
+}
+
+.clearfix:after {
+  display: block;
+  content: '.';
+  clear: both;
+  height: 0;
+  overflow: hidden;
+}

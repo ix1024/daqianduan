@@ -1,0 +1,25 @@
+.header {
+  background: #60ada7;
+  color: #fff;
+  text-align: center;
+  padding: 20rpx;
+}
+
+.my-image {
+  border-radius: 100%;
+  width: 200rpx;
+  height: 200rpx;
+}
+
+.section {
+  margin: 50rpx 50rpx;  
+}
+
+.section-item {
+  border-bottom: 1px solid #f2f2f2;
+  padding: 20rpx 10rpx;
+}
+
+.section-item:last-child {
+  border: none;
+}
