@@ -3,28 +3,58 @@
   <view class='header'>
     <input class='keyword-input' value='' placeholder='请输入关键字'></input>
   </view>
-  <scroll-view scroll-x class='tab-header'>
-    <view class='tab-item'>全部</view>
-    <view class='tab-item'>HTML</view>
-    <view class='tab-item'>CSS</view>
-    <view class='tab-item'>JS</view>
-    <view class='tab-item'>Nodejs</view>
-    <view class='tab-item'>全部</view>
-    <view class='tab-item'>HTML</view>
-    <view class='tab-item'>CSS</view>
-    <view class='tab-item'>JS</view>
-    <view class='tab-item'>Nodejs</view>
-    <view class='tab-item'>全部</view>
-    <view class='tab-item'>HTML</view>
-    <view class='tab-item'>CSS</view>
-    <view class='tab-item'>JS</view>
-    <view class='tab-item'>Nodejs</view>
-    <view class='tab-item'>全部</view>
-    <view class='tab-item'>HTML</view>
-    <view class='tab-item'>CSS</view>
-    <view class='tab-item'>JS</view>
-    <view class='tab-item'>Nodejs</view>
+  <scroll-view scroll-x>
+    <view class='tab-header'>
+      <view class='tab-item tab-item-active'>全部</view>
+      <view class='tab-item'>HTML</view>
+      <view class='tab-item'>CSS</view>
+      <view class='tab-item'>JS</view>
+      <view class='tab-item'>Nodejs</view>
+    </view>
   </scroll-view>
+  <view class='item-box '>
+    <view class='item-list clearfix'>
+      <view class='item-body'>
+        <view class='item-title'>备案信息已提交通信管理局备案信息已提交通信管理局备案信息已提交通信管理局</view>
+        <view class='item-info'>2018-01-10</view>
+      </view>
+      <image class='item-img' src='http://cms-bucket.nosdn.127.net/bbe3303b44e4437db1d7cedc01ab619e20180113130037.jpeg?imageView&thumbnail=600y300&quality=85'></image>
+    </view>
+    <view class='item-list clearfix'>
+      <view class='item-body'>
+        <view class='item-title'>备案信息已提交通信管理局备案信息已提交通信管理局备案信息已提交通信管理局</view>
+        <view class='item-info'>2018-01-10</view>
+      </view>
+      <image class='item-img' src='http://cms-bucket.nosdn.127.net/bbe3303b44e4437db1d7cedc01ab619e20180113130037.jpeg?imageView&thumbnail=600y300&quality=85'></image>
+    </view>
+    <view class='item-list clearfix'>
+      <view class='item-body'>
+        <view class='item-title'>备案信息已提交通信管理局备案信息已提交通信管理局备案信息已提交通信管理局</view>
+        <view class='item-info'>2018-01-10</view>
+      </view>
+      <image class='item-img' src='http://cms-bucket.nosdn.127.net/bbe3303b44e4437db1d7cedc01ab619e20180113130037.jpeg?imageView&thumbnail=600y300&quality=85'></image>
+    </view>
+    <view class='item-list clearfix'>
+      <view class='item-body'>
+        <view class='item-title'>备案信息已提交通信管理局备案信息已提交通信管理局备案信息已提交通信管理局</view>
+        <view class='item-info'>2018-01-10</view>
+      </view>
+      <image class='item-img' src='http://cms-bucket.nosdn.127.net/bbe3303b44e4437db1d7cedc01ab619e20180113130037.jpeg?imageView&thumbnail=600y300&quality=85'></image>
+    </view>
+    <view class='item-list clearfix'>
+      <view class='item-body'>
+        <view class='item-title'>备案信息已提交通信管理局备案信息已提交通信管理局备案信息已提交通信管理局</view>
+        <view class='item-info'>2018-01-10</view>
+      </view>
+      <image class='item-img' src='http://cms-bucket.nosdn.127.net/bbe3303b44e4437db1d7cedc01ab619e20180113130037.jpeg?imageView&thumbnail=600y300&quality=85'></image>
+    </view>
+    <view class='item-list clearfix'>
+      <view class='item-body'>
+        <view class='item-title'>备案信息已提交通信管理局备案信息已提交通信管理局备案信息已提交通信管理局</view>
+        <view class='item-info'>2018-01-10</view>
+      </view>
+      <image class='item-img' src='http://cms-bucket.nosdn.127.net/bbe3303b44e4437db1d7cedc01ab619e20180113130037.jpeg?imageView&thumbnail=600y300&quality=85'></image>
+    </view>
 
+  </view>
 </view>
-

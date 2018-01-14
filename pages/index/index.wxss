@@ -7,7 +7,7 @@
 
 .keyword-input {
   margin: 20rpx 40rpx;
-  padding: 10rpx;
+  padding: 15rpx;
   background-color: #fff;
   color: #666;
   border-radius: 10rpx;
@@ -17,18 +17,51 @@
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  color: #fff;
   height: 100rpx;
-  border-bottom: 1px solid #eee;
 }
 
 .tab-item {
-  width:100rpx;
+  white-space: nowrap;
   text-align: center;
-  padding: 30rpx 20rpx;
-  background: #951;
+  padding: 30rpx 50rpx;
+  border-bottom: 1px solid #eee;
+  color: #000;
+}
+.tab-item-active{
+  border-color:#60ADA7;
+  color: #60ADA7;
+}
+
+.item-box {
+  margin: 50rpx 30rpx;
 }
 
 .item-list {
-  margin: 50rpx;
+  border-bottom: 1px solid #eee;
+  padding: 25rpx 0;
+}
+
+.item-body {
+  float: left;
+  width: 65%;
+}
+
+.item-title {
+  font-size: 35rpx;
+  line-height: 45rpx;
+  height: 90rpx;
+  overflow: hidden;
+  color: #000;
+}
+
+.item-info {
+  font-size: 25rpx;
+  color: #999;
+  margin-top: 10rpx;
+}
+
+.item-img {
+  float: right;
+  width: 30%;
+  height: 120rpx;
 }
